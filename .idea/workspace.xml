@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87c21d51-3d16-4579-bdfe-b204d7e5950a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/about/index.html" afterPath="$PROJECT_DIR$/_site/about/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/index.html" afterPath="$PROJECT_DIR$/_site/blog/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/2015/03/08/first-post/index.html" afterPath="$PROJECT_DIR$/_site/blog/2015/03/08/first-post/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/2015/04/06/second-post/index.html" afterPath="$PROJECT_DIR$/_site/blog/2015/04/06/second-post/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/work/index.html" afterPath="$PROJECT_DIR$/_site/work/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/work/2015/03/08/first-post/index.html" afterPath="$PROJECT_DIR$/_site/work/2015/03/08/first-post/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/work/2015/04/06/second-post/index.html" afterPath="$PROJECT_DIR$/_site/work/2015/04/06/second-post/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/css/style.css" afterPath="$PROJECT_DIR$/_site/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/works.html" afterPath="$PROJECT_DIR$/_includes/works.html" />
     </list>
     <ignored path="gokhandemirhan.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -90,10 +79,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="83" column="17" selection-start="1406" selection-end="1406" vertical-scroll-proportion="0.24631268" vertical-offset="1078" max-vertical-offset="3525">
+            <state line="85" column="30" selection-start="1466" selection-end="1466" vertical-scroll-proportion="0.0" vertical-offset="1078" max-vertical-offset="3525">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="works.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/works.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="31" selection-start="295" selection-end="295" vertical-scroll-proportion="0.22488755" vertical-offset="0" max-vertical-offset="667">
               <folding />
             </state>
           </provider>
@@ -103,15 +101,6 @@
         <entry file="file://$PROJECT_DIR$/work/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="15" column="36" selection-start="334" selection-end="334" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="405">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2015-04-06-second-post.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/work/_posts/2015-04-06-second-post.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
               <folding />
             </state>
           </provider>
@@ -149,6 +138,7 @@
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/_includes/works.html" />
       </list>
     </option>
   </component>
@@ -449,7 +439,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="17" selection-start="1406" selection-end="1406" vertical-scroll-proportion="0.24631268" vertical-offset="1078" max-vertical-offset="3525">
+        <state line="85" column="30" selection-start="1466" selection-end="1466" vertical-scroll-proportion="0.0" vertical-offset="1078" max-vertical-offset="3525">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/works.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="31" selection-start="295" selection-end="295" vertical-scroll-proportion="0.22488755" vertical-offset="0" max-vertical-offset="667">
           <folding />
         </state>
       </provider>
