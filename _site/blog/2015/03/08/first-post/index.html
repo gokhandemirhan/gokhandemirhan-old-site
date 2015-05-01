@@ -39,7 +39,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="index.html">GD</a>
+<a class="navbar-brand" href="/index.html">GD</a>
         </div>
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
@@ -55,7 +55,8 @@
 
 
 
-<div id="workwrap">
+<div id="workwrap" style=" background: url() no-repeat center top;background-size: cover;">
+    <div class="overlay"></div>
     <div class="container">
         <div class="row">
             <div class="col-lg-6 col-lg-offset-3">
@@ -139,5 +140,14 @@ mmodo a tellus. Class aptent taciti sociosqu ad litora torquent per conubia\
 <!-- Placed at the end of the document so the pages load faster -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
+<script src="/js/masonry.pkgd.min.js"></script>
+
+        <script type="text/javascript">
+            var msnry = new Masonry( '#works-container', {
+                // options
+                itemSelector: '.gallery'
+            });
+
+        </script>
 </body>
 </html>

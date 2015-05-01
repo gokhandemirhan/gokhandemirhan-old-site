@@ -93,7 +93,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-nav > li > a {
-	color: #ffffff;
+	color: #cecece;
 }
 
 /* ==========================================================================
@@ -162,7 +162,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #workwrap {
-    background: url(../img/work.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
@@ -181,6 +180,16 @@ h1, h2, h3, h4, h5, h6 {
     -o-background-size: cover;
     background-size: cover;
 }
+.overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #000;
+    opacity: 0.4;
+    max-height: 580px;
+}
 
 #workwrap h1 {
 	color:#ffffff;
@@ -197,7 +206,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #aboutwrap {	
-	background: url(../img/about.jpg) no-repeat center top;
+	background: url(../img/profile-top.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
