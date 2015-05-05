@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87c21d51-3d16-4579-bdfe-b204d7e5950a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/_posts/2013-02-01-Guardians-of-galaxy.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resume/index.html" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/portfolio/folio01.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/portfolio/folio02.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/_site/img/portfolio/folio03.png" afterPath="" />
@@ -20,28 +18,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/folio05.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/folio06.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/img/profile-sb.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/_posts/2013-02-01-Rovler-business.md" afterPath="$PROJECT_DIR$/work/_posts/2013-02-01-Rovler-business.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/_posts/2013-03-02-Rovler-website.md" afterPath="$PROJECT_DIR$/work/_posts/2013-03-02-Rovler-website.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/_posts/2015-03-08-movielala-landing.md" afterPath="$PROJECT_DIR$/work/_posts/2015-03-08-movielala-landing.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/_posts/2015-04-06-Movielala.md" afterPath="$PROJECT_DIR$/work/_posts/2015-04-06-Movielala.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="$PROJECT_DIR$/_includes/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/headerwrap.html" afterPath="$PROJECT_DIR$/_includes/headerwrap.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/about/index.html" afterPath="$PROJECT_DIR$/_site/about/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/index.html" afterPath="$PROJECT_DIR$/_site/blog/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/2015/03/08/first-post/index.html" afterPath="$PROJECT_DIR$/_site/blog/2015/03/08/first-post/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/2015/04/06/second-post/index.html" afterPath="$PROJECT_DIR$/_site/blog/2015/04/06/second-post/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/work/index.html" afterPath="$PROJECT_DIR$/_site/work/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/work/2013/02/01/Rovler-business/index.html" afterPath="$PROJECT_DIR$/_site/work/2013/02/01/Rovler-business/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/work/2013/03/02/Rovler-website/index.html" afterPath="$PROJECT_DIR$/_site/work/2013/03/02/Rovler-website/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/work/2015/03/08/movielala-landing/index.html" afterPath="$PROJECT_DIR$/_site/work/2015/03/08/movielala-landing/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/work/2015/04/06/Movielala/index.html" afterPath="$PROJECT_DIR$/_site/work/2015/04/06/Movielala/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/social.html" afterPath="$PROJECT_DIR$/_includes/social.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/css/style.css" afterPath="$PROJECT_DIR$/_site/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/works.html" afterPath="$PROJECT_DIR$/_includes/works.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gokhandemirhan.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -64,10 +41,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="footer.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="footer.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="25" selection-start="172" selection-end="172" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="795">
+            <state line="13" column="34" selection-start="486" selection-end="486" vertical-scroll-proportion="0.33050847" vertical-offset="0" max-vertical-offset="795">
               <folding />
             </state>
           </provider>
@@ -91,10 +68,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="works.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="works.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/works.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="20" selection-start="494" selection-end="494" vertical-scroll-proportion="0.47263682" vertical-offset="0" max-vertical-offset="603">
+            <state line="19" column="20" selection-start="494" selection-end="494" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="420">
               <folding />
             </state>
           </provider>
@@ -179,7 +156,6 @@
         <option value="$PROJECT_DIR$/work/_posts/2013-02-01-Rovler-business.md" />
         <option value="$PROJECT_DIR$/work/_posts/2013-03-02-Rovler-website.md" />
         <option value="$PROJECT_DIR$/work/_posts/2015-03-08-movielala-landing.md" />
-        <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/resume/index3.html" />
         <option value="$PROJECT_DIR$/resume/index.html" />
@@ -188,6 +164,7 @@
         <option value="$PROJECT_DIR$/_includes/social.html" />
         <option value="$PROJECT_DIR$/work/_posts/2015-04-06-Movielala.md" />
         <option value="$PROJECT_DIR$/_includes/works.html" />
+        <option value="$PROJECT_DIR$/_includes/footer.html" />
       </list>
     </option>
   </component>
@@ -521,13 +498,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="25" selection-start="172" selection-end="172" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="795">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/social.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="22" selection-start="1027" selection-end="1027" vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="450">
@@ -572,7 +542,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/works.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="20" selection-start="494" selection-end="494" vertical-scroll-proportion="0.47263682" vertical-offset="0" max-vertical-offset="603">
+        <state line="19" column="20" selection-start="494" selection-end="494" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="420">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="34" selection-start="486" selection-end="486" vertical-scroll-proportion="0.33050847" vertical-offset="0" max-vertical-offset="795">
           <folding />
         </state>
       </provider>
