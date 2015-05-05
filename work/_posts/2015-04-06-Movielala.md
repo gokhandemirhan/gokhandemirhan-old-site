@@ -2,6 +2,7 @@
 title: Redesign of MovieLaLa
 layout: post
 image: "/img/portfolio/MLL-intheaters.jpg"
+state: draft
 ---
 
 ## Completely redesign of MovieLaLa
