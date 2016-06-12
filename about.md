@@ -1,6 +1,6 @@
 ---
-layout: page
 title: About
+layout: page
 ---
 
 Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
